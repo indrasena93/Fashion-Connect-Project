@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	font-family: calibri;
+	box-sizing: border-box;
+}
+
+input, select {
+	border: 1px solid lightgrey;
+	border-radius: 3px;
+	padding: 10px;
+}
+
+button {
+	border: 1px solid lightgrey;
+	background-color: white;
+	padding: 10px;
+	border-radius: 3px;
+	cursor: pointer;
+}
+
+table td {
+	padding: 10px;
+}
